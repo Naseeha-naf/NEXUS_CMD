@@ -1,0 +1,85 @@
+## 🚀 Built NEXUS CMD – AI Satellite Mission Control & Predictive Risk Analysis Platform
+
+Excited to share my latest full-stack project: NEXUS CMD, a next-generation aerospace mission control platform designed to monitor satellite constellations, analyze telemetry streams, and predict mission risks before failures occur.
+
+## 🛰️ Key Features
+
+✅ Real-Time Satellite Telemetry Monitoring
+
+✅ AI-Powered Predictive Risk Analysis
+
+✅ Mission Timeline & Event Tracking
+
+✅ Intelligent Mission Copilot
+
+✅ Automated Alert Management System
+
+✅ Interactive 3D Orbit Visualization
+
+✅ Secure JWT Authentication & Role-Based Access Control
+
+## 💡 What It Does
+
+The platform continuously receives telemetry data such as:
+
+🔋 Battery Levels
+
+🌡️ Temperature
+
+⚙️ CPU Utilization
+
+📡 Signal Strength
+
+⚡ Power Consumption
+
+⏱️ Communication Latency
+
+Using a custom Risk Analysis Engine, the system evaluates satellite health, generates alerts, predicts potential failures, and recommends mitigation actions.
+
+## 🛠️ Tech Stack
+
+## Frontend
+
+React
+Vite
+Tailwind CSS
+Recharts
+Three.js
+
+## Backend
+
+Node.js
+Express.js
+MongoDB Atlas
+Mongoose
+
+## Deployment
+Vercel
+Render
+MongoDB Atlas
+
+## 🎯 Skills Demonstrated
+
+🔹 Full-Stack Development
+
+🔹 System Design
+
+🔹 Real-Time Data Processing
+
+🔹 Data Visualization
+
+🔹 Cloud Deployment
+
+🔹 Authentication & Security
+
+🔹 AI-Based Risk Prediction
+
+🌍 Live Demo
+
+🔗 [Your Vercel Link Here]
+
+💻 GitHub Repository
+
+🔗 [Your GitHub Link Here]
+
+## Building this project helped me gain hands-on experience in designing scalable monitoring systems, developing production-ready dashboards, and implementing predictive analytics for mission-critical environments.
