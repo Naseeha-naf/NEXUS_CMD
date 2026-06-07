@@ -120,12 +120,6 @@ Role-based access control using JWT authentication and protected routes.
 
 ---
 
-# 📸 Project Screenshots
-
-*Add screenshots here after deployment.*
-
----
-
 # 🔗 Live Demo
 
 Frontend: https://nexus-cmd-pi.vercel.app
